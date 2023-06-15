@@ -1,10 +1,10 @@
-#include <stdio.h> 
-/*
-* A programme that print a line followed by a new line
-* Your program should end with the value 0
+#include <stdio.h>
+/**
+* main - A programme that prinst a line with puts functon
+* return: 0
 */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return(0);
+return (0);
 }
