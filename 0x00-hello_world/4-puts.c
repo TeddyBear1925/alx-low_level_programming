@@ -1,7 +1,7 @@
 #include <stdio.h> 
 /*
-*A programme that print a line followed by a new line
-*Your program should end with the value 0
+* A programme that print a line followed by a new line
+* Your program should end with the value 0
 */
 int main(void)
 {
