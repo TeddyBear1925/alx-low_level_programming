@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: 'prints all single digit numbers of base 10 starting from 0'
+ * Description: 'prints the lowercase alphabet in reverse'
  * Return: 0 (sucess)
  */
 
