@@ -2,7 +2,7 @@
 
 /**
  * print_line - straight line
- * @n: No of times 
+ * @n: No of times
  * Return: 0
  */
 
