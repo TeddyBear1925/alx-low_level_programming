@@ -3,7 +3,7 @@
 /**
  * _strcat - function that concatenates two strings
  * @dest: input value
- * @src: iput value
+ * @src: input value
  * Return: void
  */
 
@@ -13,7 +13,7 @@ int i;
 int j;
 
 i = 0;
-while (dest[1] != '\0')
+while (dest[i] != '\0')
 {
 i++;
 }
